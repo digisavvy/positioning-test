@@ -1,6 +1,6 @@
 ---
 title: "Positioning Workshop"
-date: "2025-11-26T01:14:23.042005Z"
+date: "2025-11-26T01:16:39.335631Z"
 workshop_phase: 1
 exported_from: "advisor.digisavvy.dev"
 ---
@@ -49,6 +49,33 @@ Let me ask you this: **What information and data do you have access to about you
 This helps me know how data-driven we can be versus working from your expert intuition - both are totally valid for a business like DigiSavvy!
 
 And while you're thinking about that, I'm curious: **Of all those services you offer (development, hosting, maintenance, support) - is there one that feels like your "bread and butter," or are they pretty evenly split?**
+
+---
+
+### You (01:16 AM)
+
+Okay, so I have some historical client data, not all of it. I don't have any industry research or benchmarks, but mostly it comes from experience and observations. and I feel like development and consulting are probably the best things that I do the maintenance and support is kind of like the the cherry on top once I've done the hard stuff then they can keep working with me and know that they're going to get a steady hand to help them as they move forward and
+
+---
+
+### Workshop Advisor (01:16 AM)
+
+Perfect, Alex! That's really helpful context. So you've got a mix of historical data and your lived experience - that's actually ideal for this kind of work. And I love how you described the maintenance and support as "the cherry on top" - that's a great indicator of where the real value creation happens.
+
+So it sounds like **development and consulting** are where you shine, and the maintenance/support creates that ongoing relationship and steady revenue. That's a smart business model.
+
+Let me dig a bit deeper into your current state:
+
+**Who are your current clients?** I'm curious about:
+- What types of businesses or organizations typically hire DigiSavvy?
+- Are there any patterns you've noticed? (Industry, size, specific needs?)
+- Do you have a few "favorite" clients or projects that felt like the best fit?
+
+**And what results do you typically deliver for them?** 
+- When a project goes really well, what does success look like for your clients?
+- What problems are you solving with that development and consulting work?
+
+Take your time - I know with nearly 10 years of history, there's a lot to reflect on. But patterns often emerge when we start thinking about who's been the best fit versus who's been... let's say, more challenging. 😊
 
 ---
 
