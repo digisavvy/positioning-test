@@ -1,6 +1,6 @@
 ---
 title: "Positioning Workshop"
-date: "2025-11-26T01:16:39.335631Z"
+date: "2025-11-26T01:19:32.841682Z"
 workshop_phase: 1
 exported_from: "advisor.digisavvy.dev"
 ---
@@ -76,6 +76,37 @@ Let me dig a bit deeper into your current state:
 - What problems are you solving with that development and consulting work?
 
 Take your time - I know with nearly 10 years of history, there's a lot to reflect on. But patterns often emerge when we start thinking about who's been the best fit versus who's been... let's say, more challenging. 😊
+
+---
+
+### You (01:18 AM)
+
+Okay. My current clients are mostly small businesses. They're one-person shops or solopreneurs. They might have a small team. I've got like one funded AI company that has like multiple seeds of funding rounds. And I like working with, you know, my clients one on one where I can be collaborative. And those are the ones that tend to work out well, you know, when they offer stuff and I can help. So that's generally the best fit. And then for the AI client, they pay well, but I'm just kind of an order taker for them. Like they don't really consult with me or anything like that.
+
+---
+
+### Workshop Advisor (01:19 AM)
+
+Ah, this is **really** revealing, Alex. You've just identified something crucial here.
+
+You have two very different types of client experiences:
+
+1. **Small businesses/solopreneurs** - Collaborative, you're helping guide decisions, it feels like partnership
+2. **Funded AI company** - Pays well, but you're just executing orders, no real consultation
+
+And you clearly prefer that collaborative dynamic. That "they offer stuff and I can help" - that's consultation happening naturally. You're not just coding, you're problem-solving *with* them.
+
+Here's what I'm hearing: **The money and the fulfillment aren't in the same place right now.** The AI client pays well but doesn't tap into what you actually do best (that consulting and collaboration). Meanwhile, the small businesses give you that partnership feeling but... I'm curious - are they compensating you at the level that reflects that strategic value?
+
+Let me ask you this:
+
+**When you're working with those collaborative small business clients at your best - what kinds of problems are you actually solving?** 
+
+Not just "building a website," but what are they trying to achieve? What changes for their business when DigiSavvy gets involved?
+
+And be honest: **What's working well in your business right now, and what's frustrating you or not quite clicking?** 
+
+(I have a hunch the AI client situation might be part of what's driving you to think about positioning...)
 
 ---
 
